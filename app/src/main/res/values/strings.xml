@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">InloopX</string>
+    <string name="company_name">InloopX s.r.o</string>
+    <string name="company_description">Software development agency</string>
+    <string name="company_website_string">Website</string>
+    <string name="company_call_string">Call</string>
+    <string name="company_edit_string">Edit</string>
+
+    <string name="company_address">Veľká Okružná, Žilina</string>
+    <string name="company_website">www.inloop.eu</string>
+    <string name="company_phone">0903 804 449</string>
+
+
+
 </resources>
